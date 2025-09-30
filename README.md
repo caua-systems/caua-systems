@@ -26,3 +26,11 @@
   <img align="center" alt="Caua-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Caua-C" height="30" width="40" src="https://devicon-website.vercel.app/api/c/original.svg">
 </div>
+
+<br>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caua-systems/caua-systems/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caua-systems/caua-systems/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/caua-sysstems/caua-systems/output/github-contribution-grid-snake.svg">
+</picture>
