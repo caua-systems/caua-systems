@@ -9,7 +9,7 @@
 
 📍  Based in Curitiba, Brazil <br>
 
-🖥️  Passionate about Networkings, DevOps & Cloud <br>
+🖥️  Passionate about Cybersecurity, Networkings & Linux  <br>
 
 🌎  English Level: B2 (Upper Intermediate) <br>
 
