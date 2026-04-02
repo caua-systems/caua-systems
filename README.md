@@ -15,13 +15,11 @@
 
 ##
 <div style="display: inline_block"><br>
-  <img align="center" alt="Caua-GO" height="30" width="40" <img src="https://devicon-website.vercel.app/api/java/original-wordmark.svg"
-   <img align="center" alt="Caua-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" >
-  <img align="center" alt="Caua-Docker" height="30" width="40" <img src="https://devicon-website.vercel.app/api/docker/original.svg"></img>
+  <img align="center" alt="Caua-putty" height="30" width="40" <img src="https://devicon-website.vercel.app/api/putty/original.svg">
+  <img align="center" alt="Caua-CPP" height="30" width="40" src="https://devicon-website.vercel.app/api/cplusplus/original.svg">
    <img align="center" alt="Caua-Tux" height="30" width="40" src="https://devicon-website.vercel.app/api/linux/original.svg">
-  <img align="center" alt="Caua-Git" height="30" width="40" src="https://devicon-website.vercel.app/api/git/original.svg">
   <img align="center" alt="Caua-Azure" height="30" width="40" src="https://devicon-website.vercel.app/api/azure/original.svg">
-  <img align="center" alt="Caua-Bash" height="30" width="40" src="https://devicon-website.vercel.app/api/bash/original.svg">
+  <img align="center" alt="Caua-Bash" height="30" width="40" src="https://devicon-website.vercel.app/api/redhat/original.svg">
   <img align="center" alt="Caua-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
