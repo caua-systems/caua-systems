@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&width=700&lines=%24+Olá,+meu+nome+é+Cau%C3%A3+Matheus)<br> 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&width=700&lines=%24+Olá,+meu+nome+é+Cau%C3%A3+Neves)<br> 
 
 ##
 
